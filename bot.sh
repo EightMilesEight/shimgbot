@@ -1,4 +1,8 @@
 #/bin/sh
+#xdotool and imagemagick are required to run this script.
+#Also some variable need to be change based on screen resolution.
+#pickColor and color case statment also need to be changed for them to work with r/place
+
 #Fixed amount of time between intervals in seconds.
 nextLoop=3
 #Random amount to wait between intervals in seconds.
